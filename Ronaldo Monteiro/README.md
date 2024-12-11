@@ -1,6 +1,6 @@
 # Turma de Front-End - Escola da Nuvem (2024)
 
-A **Turma de Front-End da Escola da Nuvem 2024** é uma jornada de aprendizado intensiva para aqueles que desejam se aprofundar no desenvolvimento de interfaces de usuário dinâmicas e responsivas, utilizando as tecnologias mais modernas da web. 
+A **Turma de Front-End da Escola da Nuvem. 2024** é uma jornada de aprendizado intensiva para aqueles que desejam se aprofundar no desenvolvimento de interfaces de usuário dinâmicas e responsivas, utilizando as tecnologias mais modernas da web. 
 
 ## Objetivo
 
@@ -44,4 +44,4 @@ A turma de Front-End 2024 é voltada para:
 
 A **Turma de Front-End 2024 da Escola da Nuvem** é a oportunidade perfeita para você dar os primeiros passos ou se aprofundar ainda mais na carreira de desenvolvedor web. Junte-se a nós e comece sua jornada na construção do futuro da web!
 
-alterado por: Ronaldo Monteiro
+By Ronaldo Monteiro
